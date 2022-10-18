@@ -1,1 +1,4 @@
-# WP_CHAT_ANALYSER
+# whatsapp-chat-analysis
+A streamlit app to analyze your whatsapp chats
+
+Demo Link: https://wca-campusx.herokuapp.com/
